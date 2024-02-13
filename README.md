@@ -35,7 +35,6 @@ Every month the client updates his files with transactions. After each update, h
 9. What does each investment type consist of?
 10. How much money is in his savings bank accounts?
 
-## Result
 
 ### Data Source
 
