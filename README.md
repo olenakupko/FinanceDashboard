@@ -63,6 +63,6 @@ This sample data contains 2 files. All data are anonymized:
 - Power Query Merge
 - Functions: FILTER, IF, DATE_DIF, AND, etc.
 
-The implementation of the DashBoard results
+#### The implementation of the DashBoard results
 
 The using of the DashBoard decreased the time to enter data and check the correctness by 16% from an average of 90 minutes to 75 minutes.
